@@ -47,7 +47,7 @@ Open your browser:
 
 The app should now be running at http://localhost:3000.
 
-###Output
 
-
+npx create-react-app calculator-app
+cd calculator-app
 
