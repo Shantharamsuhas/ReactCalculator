@@ -16,6 +16,10 @@ The **React Calculator** is a simple and intuitive calculator application built 
 
 ## Getting Started
 
+
+![image](https://github.com/user-attachments/assets/a7b34f13-81e6-4bcf-ab94-ca38d6d30e76)
+
+
 ### Prerequisites
 
 - Node.js and npm (Node Package Manager) installed on your machine.
@@ -45,5 +49,5 @@ The app should now be running at http://localhost:3000.
 
 ###Output
 
-![image](https://github.com/user-attachments/assets/a7b34f13-81e6-4bcf-ab94-ca38d6d30e76)
+
 
